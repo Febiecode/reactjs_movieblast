@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/reactjs_movieblast/static/css/main.334bdeb1.css",
+    "main.js": "/reactjs_movieblast/static/js/main.887bc35d.js",
+    "index.html": "/reactjs_movieblast/index.html",
+    "static/media/search.svg": "/reactjs_movieblast/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.334bdeb1.css.map": "/reactjs_movieblast/static/css/main.334bdeb1.css.map",
+    "main.887bc35d.js.map": "/reactjs_movieblast/static/js/main.887bc35d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.334bdeb1.css",
+    "static/js/main.887bc35d.js"
+  ]
+}
